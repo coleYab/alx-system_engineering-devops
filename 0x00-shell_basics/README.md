@@ -12,3 +12,6 @@ In the fifth file there is a code to list all the contents of the current workin
 
 The sixth file contains the command that is reqired to display the content of the current directory in a long format eith user group IDs displayed numerically and hidden files
 
+In the seventh file there is a command that is used in linux to create a directory named my_first_directory in the /tmp/ directory
+
+
