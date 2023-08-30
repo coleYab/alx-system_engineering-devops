@@ -17,3 +17,7 @@ In the seventh file there is a command that is used in linux to create a directo
 In the eith file we have the code to mover the file named betty from tmp directory to tmp/my_first_directory
 
 In the ninth file there is the command for deleting the file betty in the location  /tmp/my_first_directory 
+
+In the tenth task there is code to delete my_first_directory in the tmp directory
+
+
