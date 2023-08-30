@@ -26,3 +26,4 @@ In the twelveth file there is a command to ists all files (even ones with names 
 
 In the thirteen file there is a command to Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
 
+In the fourteenth file we have the code to create a symbolic link to /bin/ls, named __ls__
