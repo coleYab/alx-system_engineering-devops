@@ -14,4 +14,6 @@ The sixth file contains the command that is reqired to display the content of th
 
 In the seventh file there is a command that is used in linux to create a directory named my_first_directory in the /tmp/ directory
 
-In the eith file we have the code to mover the file named betty from tmp directory to tmp/my_first_directory 
+In the eith file we have the code to mover the file named betty from tmp directory to tmp/my_first_directory
+
+In the ninth file there is the command for deleting the file betty in the location  /tmp/my_first_directory 
