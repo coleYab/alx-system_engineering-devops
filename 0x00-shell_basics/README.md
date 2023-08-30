@@ -9,3 +9,6 @@ In the third file named 2-bring_me_home there is a command to change our working
 In the fourth file named 3-listfiles there is a code for to list all the contents of the current directory in long format
 
 In the fifth file there is a code to list all the contents of the current working directory including the hidden ones
+
+The sixth file contains the command that is reqired to display the content of the current directory in a long format eith user group IDs displayed numerically and hidden files
+
