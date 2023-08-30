@@ -29,3 +29,9 @@ In the thirteen file there is a command to Write a script that prints the type o
 In the fourteenth file we have the code to create a symbolic link to /bin/ls, named __ls__
 
 The fifteenth file contains the script that copies all the HTML filaes from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
+The sixteenth file namely 100-lets_move contains the code to move files begin with capital letters
+
+The seventeenth file namely 101-clean_emacs contains the code to delete allfiles in the current file and end with the character ~
+
+
