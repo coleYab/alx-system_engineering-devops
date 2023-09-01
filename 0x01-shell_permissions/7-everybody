@@ -1,3 +1,2 @@
 #!/bin/bash
-chkmod ugo+x hello
-
+chmod ugo+x hello
