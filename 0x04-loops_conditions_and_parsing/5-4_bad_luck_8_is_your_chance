@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# a program that displays hello world while chinese bad and good luck
+
+var=1
+
+while [ $var -le 10 ]
+do
+	if [ $var = 4 ]; then
+		echo "bad luck"
+	elif [ $var = 8 ]; then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	var=$((var + 1))
+done
+

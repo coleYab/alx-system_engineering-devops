@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# a program to display form 0 - 12 and 1 - 59 clock
+
+clock=0
+
+while [ $clock -le 12 ]
+do
+	minute=1
+	echo "Hour: $hour"
+	while [ $minute -le 59 ]
+	do
+		echo $minute
+		minute=$((minute + 1))
+	done
+	hour=$((hour + 1))
+done
