@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# a program to display while best school if 9 say hi
+
+val=1
+
+while [ $val -le 10 ]
+do
+	echo "Best School"
+	if [ $val = 9 ]; then
+		echo "Hi"
+	fi
+	val=$((val + 1))
+done
+
