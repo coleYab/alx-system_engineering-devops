@@ -9,8 +9,9 @@ do
 	4) echo "bad luck form China";;
 	9) echo "bad luck from Japan";;
 	17) echo "bad luck from Italy";;
-	*) echo $var;;
 	esac
+	echo $var
+
 	var=$((var + 1))
 done
 

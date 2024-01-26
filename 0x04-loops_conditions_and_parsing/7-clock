@@ -3,7 +3,7 @@
 
 clock=0
 
-while [ $clock -le 12 ]
+while [ $clock -le 11 ]
 do
 	minute=1
 
@@ -16,4 +16,5 @@ do
 
 	hour=$((hour + 1))
 done
+echo "Hour: $hour"
 
