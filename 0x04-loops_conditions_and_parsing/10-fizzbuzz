@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# display the fizz buzz
+
+val=1
+
+while [ $val -le 100 ]
+do
+	if [ $((val % 15)) = 0 ]; then
+		echo "FizzBuzz"
+	elif [ $((val % 5)) = 0 ]; then
+		echo "Buzz"
+	elif [ $((val % 3)) = 0 ]; then
+		echo "Fizz"
+	else
+		echo $val
+	fi
+	val=$((val + 1))
+done 
