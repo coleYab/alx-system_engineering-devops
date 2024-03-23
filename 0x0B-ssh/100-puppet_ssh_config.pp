@@ -1,11 +1,11 @@
 # file to create file lines
 
-file_line { 'SetPassAuth':
+file_line{ 'Turn off passwd auth':
     path => '/etc/ssh/ssh_config',
-    line => 'PasswordAuthentucation no',
+    line => 'PasswordAuthentication no'
 }
 
-file_line { 'SetIdentityFile':
+file_line{ 'Declare identitiy file':
     path => '/etc/ssh/ssh_config',
-    line => 'IdentityFile ~/.ssh/school',
+    line => 'IdentityFile ~/.ssh/school'
 }
