@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # connects to a remote Server
-ssh-add ~/.ssh/school && ssh ubuntu@54.173.233.53
+ssh -i ~/.ssh/school ubuntu@54.173.233.53
+
