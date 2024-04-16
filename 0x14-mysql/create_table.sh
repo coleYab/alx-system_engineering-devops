@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS tyrell_crop;
+
+CREATE TABLE IF NOT EXISTS nexus6(
+    id INT NOT NULL PRIMARY KEY
+    name VARCHAR(120)
+);
+
+INSERT INTO nexus6 VALUES (1, 'Leon');
+
+
